@@ -1,3 +1,4 @@
+
 ## 🚀 Sobre mim
 Meu nome é Eric, tenho 22 anos e estou fazendo um curso de formação front-end
 
@@ -18,6 +19,7 @@ Javascript, HTML, CSS...
 
 📫 Como entrar em contato comigo: https://github.com/itzEric13
 
-
-
-![Logo](https://cdn-icons-png.flaticon.com/512/1434/1434711.png)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+</div>
