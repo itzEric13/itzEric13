@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🚀 Sobre mim
+Meu nome é Eric, tenho 22 anos e estou fazendo um curso de formação front-end
 
-<!--
-**itzEric13/itzEric13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+Javascript, HTML, CSS...
+
+
+## Outras seções comuns em perfis do GitHub
+👩‍💻 Trabalho atualmente no SENAC
+
+🧠 Estou aprendendo JavaScript
+
+👯‍♀️ Procuro colaborar em desenvolvimento de projetos
+
+💬 Me pergunte sobre: Programação
+
+📫 Como entrar em contato comigo: https://github.com/itzEric13
+
+
+
+![Logo](https://cdn-icons-png.flaticon.com/512/1434/1434711.png)
