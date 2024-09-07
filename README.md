@@ -13,7 +13,7 @@ Meu nome é Eric, tenho 22 anos e estou fazendo um curso de formação front-end
 ## 🌟 Outras Seções
 
 ### 👩‍💻 Trabalho
-Atualmente trabalho no **SENAC**, onde estou envolvido em projetos focados em desenvolvimento web, aprimorando minhas habilidades em front-end.
+Atualmente trabalho na **Vedabrás**, onde estou envolvido em projetos focados em desenvolvimento web, aprimorando minhas habilidades em front-end.
 
 ### 🧠 Aprendizado
 Atualmente, estou aprendendo **JavaScript** e explorando frameworks como **React** e **Vue.js**. Estou animado para aplicar esses conhecimentos em projetos práticos!
