@@ -1,6 +1,6 @@
 
 ## 🚀 Sobre mim
-Meu nome é Eric, tenho 22 anos.
+Meu nome é Eric, tenho 23 anos.
 Sou tecnologo em Analíse e Desenvolvimento de sitemas.
 "Estou apaixonado por criar interfaces de usuário intuitivas e sempre busco aprender novas tecnologias."
 
