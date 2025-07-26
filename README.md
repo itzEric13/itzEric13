@@ -28,7 +28,7 @@ Me pergunte sobre:
 - Desenvolvimento de front-end
 - Banco de dados.
 
-📫 Como entrar em contato comigo: https://www.linkedin.com/in/eric-rodrigues-397178233/
+📫 Como entrar em contato comigo: https://www.linkedin.com/in/ericrs01
 - E-mail: ericrodrigues45@gmail.com
 
 <div align="left">
